@@ -7,6 +7,9 @@
 - 🌱 我正在学习C++、Python、Html5、Django、Vue、Bootstarp、Android。
 - 🌱 I’m currently learning Cpp,Python,Html5,Django,Vue,Bootstarp,Android.
 
+- ✨ 有一些代码是我的大学讲师写的，我写的代码大多数是C++。
+- ✨ Some of the code was written by my college lecturer, and most of the code I wrote was C++.
+
 <!---
 YiwenPang/YiwenPang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
