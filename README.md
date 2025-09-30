@@ -1,17 +1,17 @@
-- 👋 你好，我是庞怡文，来自中国，你可以叫我庞Peter，是一名正在学习算法的学生。
-- 👋 Hi, I’m Yiwen Pang from China. You can call me Peter. I'm a student currently studying algorithms.
+- 👋 你好，我是庞怡文，来自中国，你可以叫我庞Peter，是一名正在学习算法和关联预测的学术型硕士研究生。
+- 👋 Greetings. My name is Yiwen Pang, and I am from China. You may address me as Peter Pang. I am a Master's student specializing in Algorithms and Association Prediction.
 
 
-- 👀 我喜欢编程和摄影。然后啊对对对对对，我是个兽人控！！！！
-- 👀 I have a passion for programming and photography. And yes, I'm a furry enthusiast!!!!
+- 👀 我喜欢编程和摄影。然后啊对对对对对，我是个大橘猫！！！！
+- 👀 I have a passion for programming and photography. And yes, I'm a furry!!!!
 
 
-- 🌱 我正在学习C++、Python、Html5、Django、Vue、Bootstarp、Android。
-- 🌱 Currently, I'm learning C++, Python, HTML5, Django, Vue, Bootstrap, and Android.
+- 🌱 我正在学习Python、机器学习、关联预测相关。
+- 🌱 I am formally studying Python, Machine Learning, and Association Prediction.
 
 
-- ✨ 有一些代码是我的大学讲师写的，我写的代码大多数是C++。
-- ✨ Some of the code in my repositories was written by my college lecturer, while most of my personal code is in C++.
+- ✨ 有一些代码是我的本科讲师写的，我写的代码大多数是C++，但现在彻底偏向于Python了。
+- ✨ A portion of the codebase was contributed by my undergraduate lecturer. Although I previously coded predominantly in C++, I have now shifted exclusively to Python.
 
 
 <!---
