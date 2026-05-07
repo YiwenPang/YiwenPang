@@ -10,8 +10,8 @@
 - 🌱 I am formally studying Python, Machine Learning, and Association Prediction.
 
 
-- ✨ 有一些代码是我的本科讲师写的，我写的代码大多数是C++，但现在彻底偏向于Python了。
-- ✨ A portion of the codebase was contributed by my undergraduate lecturer. Although I previously coded predominantly in C++, I have now shifted exclusively to Python.
+- ✨ 这里存放的都是我本人编写的代码和项目，可能来自我参加的比赛、课程学习或论文撰写。
+- ✨ All the code and projects stored here are written by myself, and they may originate from the competitions I have participated in, my coursework, or thesis writing.
 
 
 <!---
