@@ -72,28 +72,20 @@ Git · GitHub · VS Code · PyCharm · Windows · macOS
 
 ## 🚀 Featured Project | 代表项目
 
-### 🧬 HFPM-DDA
+### 🧬 EviHGT
 
-**Heterogeneous Frequent Pattern Mining for Drug–Disease Association Prediction**
+**Evidence-aware Heterogeneous Graph Transformer for Drug–Disease Association Ranking**
 
-HFPM-DDA 是一个面向 **药物－疾病关联预测与药物重定位** 的异构频繁模式挖掘项目。
+EviHGT 是我硕士研究中引以为傲的项目。它利用生物医学知识图谱中的证据，为候选药物–疾病关联排序。
 
-该项目尝试从药物、靶点、基因与疾病之间的关联信息中挖掘具有潜在生物医学意义的模式，并用于发现新的药物－疾病关联。
+模型在与查询相关的子图中分别建模支持证据与反证，并结合多跳路径为治疗支持和用药不适宜两类关联打分。
 
-HFPM-DDA explores heterogeneous frequent-pattern-based knowledge discovery for **drug–disease association prediction and drug repurposing**.
-
-<div align="center">
-
-<a href="https://github.com/YiwenPang/HFPM-DDA">
-  <img src="https://img.shields.io/badge/HFPM--DDA-View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+I developed EviHGT during my master's research, and it's a project I'm particularly proud of. It ranks **drug–disease associations** using evidence from a biomedical knowledge graph. The model builds query-specific subgraphs and uses multi-hop paths to score treatment support and contraindication-related associations separately.
 
 <div align="center">
 
-<a href="https://github.com/YiwenPang/HFPM-DDA">
-  <img src="https://img.shields.io/badge/View-HFPM--DDA-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YiwenPang/EviHGT">
+  <img src="https://img.shields.io/badge/EviHGT-View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View EviHGT on GitHub" />
 </a>
 
 </div>
