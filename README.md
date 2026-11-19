@@ -20,6 +20,28 @@ I am a Master's student in Computer Science, currently focusing on **Algorithms,
 
 ---
 
+## 🚀 Featured Project | 代表项目
+
+### 🧬 EviHGT
+
+**Evidence-aware Heterogeneous Graph Transformer for Drug–Disease Association Ranking**
+
+EviHGT 是我硕士研究中引以为傲的项目。它利用生物医学知识图谱中的证据，为候选药物–疾病关联排序。
+
+模型在与查询相关的子图中分别建模支持证据与反证，并结合多跳路径为治疗支持和用药不适宜两类关联打分。
+
+I developed EviHGT during my master's research, and it's a project I'm particularly proud of. It ranks **drug–disease associations** using evidence from a biomedical knowledge graph. The model builds query-specific subgraphs and uses multi-hop paths to score treatment support and contraindication-related associations separately.
+
+<div align="center">
+
+<a href="https://github.com/YiwenPang/EviHGT">
+  <img src="https://img.shields.io/badge/EviHGT-View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View EviHGT on GitHub" />
+</a>
+
+</div>
+
+---
+
 ## 🔬 Research Interests | 研究方向
 
 目前比较关注：
@@ -70,28 +92,6 @@ Git · GitHub · VS Code · PyCharm · Windows · macOS
 
 ---
 
-## 🚀 Featured Project | 代表项目
-
-### 🧬 EviHGT
-
-**Evidence-aware Heterogeneous Graph Transformer for Drug–Disease Association Ranking**
-
-EviHGT 是我硕士研究中引以为傲的项目。它利用生物医学知识图谱中的证据，为候选药物–疾病关联排序。
-
-模型在与查询相关的子图中分别建模支持证据与反证，并结合多跳路径为治疗支持和用药不适宜两类关联打分。
-
-I developed EviHGT during my master's research, and it's a project I'm particularly proud of. It ranks **drug–disease associations** using evidence from a biomedical knowledge graph. The model builds query-specific subgraphs and uses multi-hop paths to score treatment support and contraindication-related associations separately.
-
-<div align="center">
-
-<a href="https://github.com/YiwenPang/EviHGT">
-  <img src="https://img.shields.io/badge/EviHGT-View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View EviHGT on GitHub" />
-</a>
-
-</div>
-
----
-
 ## 📦 About My Repositories | 关于这里的项目
 
 ✨ 这里存放的代码和项目主要由我本人编写。
@@ -117,7 +117,7 @@ They may originate from:
 
 ---
 
-## 📊 GitHub Statistics | GitHub 数据统计
+## 📊 GitHub Stats & Activity | GitHub 数据与贡献
 
 <div align="center">
 
@@ -127,19 +127,11 @@ They may originate from:
 
 </div>
 
----
-
-## 🔥 Contribution Streak | 连续贡献记录
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=YiwenPang&theme=transparent&hide_border=true" />
 
 </div>
-
----
-
-## 📈 Contribution Activity | 贡献活动
 
 <div align="center">
 
