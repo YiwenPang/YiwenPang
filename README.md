@@ -143,24 +143,21 @@ They may originate from:
 
 ## 📷 Beyond Code | 代码之外
 
-除了编程和科研，我也很喜欢 **摄影**。
+除了编程和科研，我也很喜欢 **摄影**。<br>
+Besides programming and research, I also love **photography**.
 
-Besides programming and research, I also have a passion for **photography**.
+然后还有一件非常重要的事情。<br>
+And one more very important thing.
 
-然后还有一件非常重要的事情：
+### 🐱 对，我是一只大橘猫！！！！<br>I'm a furry and a big orange cat!
 
-### 🐱 对，我是一只大橘猫！！！！
-
-<br>
-
-And yes...
-
-### 🐱 I'm a furry — and a big orange cat!
-
-编程的时候是研究生。
-关掉编辑器以后——
-
+编程的时候是研究生。<br>
+关掉编辑器以后——<br>
 **喵。**
+
+I'm a grad student when I'm coding.<br>
+Once I close my editor…<br>
+**Meow.**
 
 ---
 
